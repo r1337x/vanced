@@ -1,22 +1,21 @@
-CLI: revanced-cli-2.18.2-all.jar  
-Integrations: app-release-unsigned-v0.85.1.apk  
-Patches: revanced-patches-2.146.0.jar  
+CLI: revanced-cli-2.19.0-all.jar  
+Integrations: revanced-integrations-0.91.1-v0.91.2.apk  
+Patches: revanced-patches-2.152.0.jar  
 
-### [2.146.0](https://github.com/revanced/revanced-patches/compare/v2.145.0...v2.146.0) (2022-12-18)
+### [2.152.0](https://github.com/revanced/revanced-patches/compare/v2.151.0...v2.152.0) (2023-01-04)
 ### Features
-* **predictive-back-gesture:** exclude by default ([176d34b](https://github.com/revanced/revanced-patches/commit/176d34b2ff92d0eb627dad86ad87f559df3db815))
-* **twitter/timeline-ads:** add clarifying notice to description ([0eca2af](https://github.com/revanced/revanced-patches/commit/0eca2af1a4a688903c61ff6469ffea90c60f06a6))
-* **youtube:** bump patches compatibility to v17.49.37 ([83ebc73](https://github.com/revanced/revanced-patches/commit/83ebc731130d3d216ac4b815382d8f13548cf665))
+* **youtube/copy-video-url:** match icon style with native icon ([#1419](https://github.com/revanced/revanced-patches/issues/1419)) ([e89e54c](https://github.com/revanced/revanced-patches/commit/e89e54c316a2d99195d2b79e9176d34f6de0113c))
 
   
 **App Versions:**  
 YouTube: 17.49.37  
 Music (arm64-v8a): 5.36.51  
+Twitter: 9.70.0-release.0  
 Music (arm-v7a): 5.36.51  
-Twitter: 9.69.1-release.0  
-Reddit: 2022.45.0  
 Twitch: 14.3.2  
-TikTok: 27.5.1  
+Reddit: 2022.45.0  
+TikTok: 27.6.3  
+Spotify: 8.7.92.521  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
