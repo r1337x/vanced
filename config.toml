@@ -64,13 +64,13 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-includin
 merge-integrations = true
 
 [Spotify]
-enabled = true
+enabled = false
 build-mode = "apk"
 version = "latest"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 [Citra]
-enabled = true
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/citra-emulator/citra-emulator/"
 
 [Backdrops]
@@ -78,29 +78,29 @@ enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
 
 [WarnWetter]
-enabled = true
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/deutscher-wetterdienst/warnwetter/"
 
 [Windyapp]
-enabled = true
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-wind-weather-forecast/"
 
 [MyExpenses]
-enabled = true
+enabled = false
 uptodown-dlurl = "https://my-expenses.en.uptodown.com/android"
 
 [NyxMusicPlayer]
-enabled = true
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/awedea/nyx-music-player/"
 
 [IconPackStudio]
-enabled = true
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
 
 [TickTick]
-enabled = true
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/appest-inc/ticktick-to-do-list-with-reminder-day-planner/"
 
 [Tasker]
-enabled = true
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/joaomgcd/tasker/"
