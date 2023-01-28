@@ -53,18 +53,18 @@ version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 
 [TikTok]
-enabled = false
+enabled = true
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 
 [Spotify]
-enabled = true
+enabled = false
 build-mode = "apk"
 version = "auto"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 [Citra]
-enabled = true
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/citra-emulator/citra-emulator/"
 
 [Backdrops]
@@ -72,23 +72,23 @@ enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
 
 [WarnWetter]
-enabled = true
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/deutscher-wetterdienst/warnwetter/"
 
 [Windyapp]
-enabled = true
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-wind-weather-forecast/"
 
 [MyExpenses]
-enabled = true
+enabled = false
 uptodown-dlurl = "https://my-expenses.en.uptodown.com/android"
 
 [NyxMusicPlayer]
-enabled = true
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/awedea/nyx-music-player/"
 
 [IconPackStudio]
-enabled = true
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
 
 [TickTick]
