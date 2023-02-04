@@ -21,6 +21,7 @@ Twitter: 9.69.1-release.0
 Reddit: 2022.43.0  
 Twitch: 14.4.0  
 TikTok: 27.8.3  
+Backdrops: 4.52  
 TickTick: 6.4.4.2  
 Tasker: 6.0.9  
 
