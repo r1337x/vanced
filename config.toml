@@ -11,7 +11,7 @@ build-mindetach-module = true
 [YouTube-Stable]
 enabled = true
 build-mode = "both"                                                   # 'both', 'apk' or 'module'
-excluded-patches = "debugging"                                        # whitespace seperated list of patches to exclude (multiline strings are not supported)
+excluded-patches = "debugging custom-video-speed"                                        # whitespace seperated list of patches to exclude (multiline strings are not supported)
 included-patches = ""                                                 # whitespace seperated list of patches to include
 version = "auto"                                                      # 'auto', 'latest' or a custom one like '17.40.41'
 exclusive-patches = false                                             # excludes all patches by default
@@ -21,7 +21,7 @@ module-prop-name = "ytrv-magisk"
 [YouTube-Latest]
 enabled = true
 build-mode = "both"                                                   # 'both', 'apk' or 'module'
-excluded-patches = "debugging"                                        # whitespace seperated list of patches to exclude (multiline strings are not supported)
+excluded-patches = "debugging custom-video-speed"                                        # whitespace seperated list of patches to exclude (multiline strings are not supported)
 included-patches = ""                                                 # whitespace seperated list of patches to include
 version = "latest"                                                      # 'auto', 'latest' or a custom one like '17.40.41'
 exclusive-patches = false                                             # excludes all patches by default
