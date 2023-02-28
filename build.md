@@ -13,12 +13,12 @@ Patches: revanced-patches-2.164.0.jar
   
 **App Versions:**  
 YouTube-Stable: 18.03.36  
-YouTube-Latest: 18.06.41  
 Music (arm64-v8a): 5.45.52  
+YouTube-Latest: 18.08.35  
 Music (arm-v7a): 5.45.52  
 Twitter: 9.71.0-release.0  
 Reddit: 2023.05.0  
-Twitch: 14.6.0  
+Twitch: 14.6.1  
 TikTok: 27.8.3  
 TickTick (arm64-v8a): 6.5.1.0  
 
