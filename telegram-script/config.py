@@ -1,6 +1,6 @@
 class Config:
     REVANCED_APKS_RELEASE_URL = (
-        "https://api.github.com/repos/revanced-apks/build-apps/releases/latest"
+        "https://api.github.com/repos/r1337x/build-apps/releases/latest"
     )
     MICROG_RELEASE_URL = (
         "https://api.github.com/repos/TeamVanced/VancedMicroG/releases/latest"
@@ -12,7 +12,7 @@ class Config:
     NOTES = """*≣ Note:*
  ➜ `mindetach.zip` is used to detach play store updates for YT and YT Music for rooted users.
  ➜ `microg.apk` is used for google services and must be installed for non root YT and YT Music."""
-    CREDITS_MESSAGE = "Credits to our upstream repository [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)"
+    CREDITS_MESSAGE = "Based on Revanced Stable"
 
     RELEASE_MESSAGE = """📑 *RELEASE* {release_name}
 
@@ -33,4 +33,4 @@ Magisk (Root):
 
 {credits_message}
     
-@revanced_apks_web | revanced-apks.pages.dev"""
+1337x"""
