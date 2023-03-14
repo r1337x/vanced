@@ -1,6 +1,6 @@
 class Config:
     REVANCED_APKS_RELEASE_URL = (
-        "https://api.github.com/repos/r1337x/build-apps/releases/latest"
+        "https://api.github.com/repos/r1337x/vanced/releases/latest"
     )
     MICROG_RELEASE_URL = (
         "https://api.github.com/repos/TeamVanced/VancedMicroG/releases/latest"
