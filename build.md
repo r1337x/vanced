@@ -1,25 +1,47 @@
 CLI: revanced-cli-2.21.0-all.jar  
-Integrations: revanced-integrations-0.99.0.apk  
-Patches: revanced-patches-2.164.0.jar  
+Integrations: revanced-integrations-0.99.30.apk  
+Patches: revanced-patches-2.164.30.jar  
 
-### [2.164.0](https://github.com/revanced/revanced-patches/compare/v2.163.0...v2.164.0) (2023-02-24)
-### Features
-* **photomath:** `unlock-plus` patch ([#1633](https://github.com/revanced/revanced-patches/issues/1633)) ([a673514](https://github.com/revanced/revanced-patches/commit/a673514f848e583513924a6a9b8cfbb56153cc3a))
-* **youtube/general-ads:** hide quick actions in fullscreen ([fff9670](https://github.com/revanced/revanced-patches/commit/fff9670a81108b8343d0b7913953fc6c2bb4a6f0))
-* **youtube/general-ads:** hide related videos in quick action ([d23c31a](https://github.com/revanced/revanced-patches/commit/d23c31a9ec39189e08474044ac5ca06d974add76))
-* **youtube/return-youtube-dislike:** support for shorts ([#1596](https://github.com/revanced/revanced-patches/issues/1596)) ([967c1cb](https://github.com/revanced/revanced-patches/commit/967c1cbd4b340a382a355f13d236d2881bafddbf))
-* **youtube:** remove patch `open-links-directly` ([79291a0](https://github.com/revanced/revanced-patches/commit/79291a0d34bd9514cbef5d97c21c59dfbffad287))
+YouTube
+==
+- add `lift-vertical-video-restriction` patch (Experimental Flags) https://github.com/orgs/revanced/discussions/929
+- add `disable-quic-protocol` patch (Experimental Flags)
+- add `protobuf-spoof` patch (it fixes playback buffer issue https://github.com/inotia00/ReVanced_Extended/issues/141 https://github.com/microg/GmsCore/issues/1870)
+- feat(youtube/general-ads): hide new type of ad
+- fix: `Hide more information menu` setting is broken https://github.com/inotia00/ReVanced_Extended/issues/456
+- fix: `default-video-speed` patch fails in YouTube v18.08.39 https://github.com/inotia00/ReVanced_Extended/issues/470
+- fix: `enable-timestamps-speed` patch is not reflected in patch information
+- fix: reboot dialog is missing in `Default downloader settings`
+- fix(sponsorblock): context broken on [segment submission](https://www.reddit.com/r/revancedextended/comments/11pgnbh/12_im_too_stupid_to_submit_the_issue_on_github_so/)
+- fix(hide-shorts-component): glitch when there are a lot of shorts component blocked in search results
+- refactor(hide-shorts-component): check current PlayerType when blocking shorts player component
+- refactor(litho): minor optimization
+- rollback(default-video-speed): default video speed does not apply when playing live video
+- crowdin translation update
+`Arabic`, `Bengali`, `Chinese Traditional`, `French`, `Greek`, `Indonesian`, `Italian`, `Japanese`, `Korean`, `Polish`, `Portuguese (Brazilian)`, `Russian`, `Spanish`, `Turkish`, `Ukrainian`, `Vietnamese`
 
+
+YouTube Music
+==
+- crowdin translation update
+`Indonesian`, `Korean`, `Polish`, `Portuguese (Brazilian)`
+
+
+ETC
+==
+- drop support YouTube v18.09.37
+
+※ Compatible ReVanced Manager: v0.0.56
+※ If you want to contribute to the translation, refer below
+
+[Crowdin translation]
+- [European Countries](https://crowdin.com/project/revancedextendedeu)
+- [Other Countries](https://crowdin.com/project/revancedextended)
   
 **App Versions:**  
-YouTube: 18.03.36  
-Music (arm64-v8a): 5.47.51  
-Music (arm-v7a): 5.47.51  
-Twitter: 9.71.0-release.0  
-Reddit: 2023.05.0  
-TikTok: 27.8.3  
-TickTick (arm64-v8a): 6.5.2.1  
-Tasker: 6.0.9  
+YouTube: 18.09.39  
+Music (arm64-v8a): 5.47.53  
+Music (arm-v7a): 5.47.53  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
