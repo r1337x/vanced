@@ -1,3 +1,5 @@
+Infinity-for-Reddit: 6.0.4  
+VSCO: 324  
 YouTube: 18.23.35  
 Music (arm64-v8a): 6.15.51  
 Music (arm-v7a): 6.15.51  
