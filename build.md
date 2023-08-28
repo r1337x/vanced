@@ -1,66 +1,52 @@
-Infinity-for-Reddit: 6.0.4  
+Infinity-for-Reddit: 6.1.1  
 VSCO: 324  
-YouTube: 18.23.35  
-Music (arm64-v8a): 6.15.51  
-Music (arm-v7a): 6.15.51  
-Twitter: 10.3.0-release.0  
+YouTube: 18.32.39  
+Music (arm64-v8a): 6.16.52  
+Music (arm-v7a): 6.16.52  
+Twitter: 10.4.0-release.0  
 Twitch: 15.4.1  
-TikTok: 30.9.4  
+TikTok: 31.0.4  
 Reddit: 2023.33.1  
-Messenger (arm64-v8a): 422.0.0.18.107  
-TickTick (arm64-v8a): 6.6.9.1  
-TickTick (arm-v7a): 6.6.9.1  
+TickTick (arm64-v8a): 6.6.9.5  
+TickTick (arm-v7a): 6.6.9.5  
 Instagram (arm64-v8a): 275.0.0.27.98  
+Music-Extended (arm64-v8a): 6.16.52  
 Instagram (arm-v7a): 275.0.0.27.98  
-Music-Extended (arm64-v8a): 6.15.51  
-Music-Extended (arm-v7a): 6.15.51  
-YouTube-Extended: 18.31.40  
+Music-Extended (arm-v7a): 6.16.52  
+YouTube-Extended: 18.33.37  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
 ---
 Changelog:  
-CLI: j-hc/revanced-cli-2.23.0-all.jar  
-Integrations: ReVanced/revanced-integrations-0.115.1.apk  
-Patches: ReVanced/revanced-patches-2.187.0.jar  
+CLI: j-hc/revanced-cli-3.0.1-all.jar  
+Integrations: ReVanced/revanced-integrations-0.117.0.apk  
+Patches: ReVanced/revanced-patches-2.189.0.jar  
 
-### [2.187.0](https://github.com/ReVanced/revanced-patches/compare/v2.186.0...v2.187.0) (2023-08-02)
-### Bug Fixes
-* Remove version numbers from individual patches ([#2709](https://github.com/ReVanced/revanced-patches/issues/2709)) ([7a828ea](https://github.com/ReVanced/revanced-patches/commit/7a828ea8826864505fac9b2bdb3a1261d9f4dc35))
-* **Sync for Reddit - Change OAuth client id:** Disable piracy detection ([cd103dd](https://github.com/ReVanced/revanced-patches/commit/cd103dd9b8ff2667246d4abaf75577f28bf1a11b))
-* Use clearer descriptions ([8dbb0e2](https://github.com/ReVanced/revanced-patches/commit/8dbb0e212e8ceeb0381a3509e45afca095ddee53))
-* **YouTube - Spoof app version:** Fix grammar in description ([#2711](https://github.com/ReVanced/revanced-patches/issues/2711)) ([dd249e6](https://github.com/ReVanced/revanced-patches/commit/dd249e62243e57733a6ff4d3a17d30db0e08a84d))
-* **YouTube - Spoof App Version:** Remove 17.30.35 target (version no longer works correctly) ([#2703](https://github.com/ReVanced/revanced-patches/issues/2703)) ([210108b](https://github.com/ReVanced/revanced-patches/commit/210108bd8f86f583f5cd5d5538480b76d51d7776))
-* **YouTube - Theme:** only set splash screen color if background colors are set ([f058db4](https://github.com/ReVanced/revanced-patches/commit/f058db4ba4300400ac92b4a9790708eb8bde7092))
+### [2.189.0](https://github.com/ReVanced/revanced-patches/compare/v2.188.1...v2.189.0) (2023-08-27)
 ### Features
-* **Joey for Reddit:** Add `Change OAuth client id` patch ([1bac47d](https://github.com/ReVanced/revanced-patches/commit/1bac47df889b5221bef1c03e652f894be8d39385))
-* **Joey for Reddit:** Add `Disable ads` patch ([ad7e147](https://github.com/ReVanced/revanced-patches/commit/ad7e14771208dcab08fd6dc29403b1a4cf602111))
-* **Reddit is Fun - Spoof client:** Spoof the user agent ([b9aaf61](https://github.com/ReVanced/revanced-patches/commit/b9aaf610ad9f1f45a72265a3782d2cf996020139))
-* **Sync for Reddit:** add `Disable Sync for Lemmy bottom sheet` patch ([56b535b](https://github.com/ReVanced/revanced-patches/commit/56b535b2a136d4b0afbddf2c8e251889c2555056))
-* **YouTube - Hide layout components:** Hide `chips shelf` ([#2699](https://github.com/ReVanced/revanced-patches/issues/2699)) ([8e6058b](https://github.com/ReVanced/revanced-patches/commit/8e6058b62350b3d14d79e6fe52b0ad781b66b5de))
-* **YouTube:** add `Player Flyout Menu` patch ([#2295](https://github.com/ReVanced/revanced-patches/issues/2295)) ([aea0af0](https://github.com/ReVanced/revanced-patches/commit/aea0af059784ae4820a0e73ff91f97bbc3ebc4c7))
+* Restore previous release ([f7352fe](https://github.com/ReVanced/revanced-patches/commit/f7352feb6e9604162b52072d74310b9e3067bc69))
 
 ---
 CLI: inotia00/revanced-cli-2.22.2-all.jar  
-Integrations: YT-Advanced/revanced-integrations-0.117.0.apk  
-Patches: YT-Advanced/revanced-patches-2.188.1.jar  
+Integrations: YT-Advanced/revanced-integrations-0.117.3.apk  
+Patches: YT-Advanced/revanced-patches-2.189.0.jar  
 
-#### [2.188.1](https://github.com/YT-Advanced/ReX-patches/compare/v2.188.0...v2.188.1) (2023-08-19)
+#### [2.189.0](https://github.com/YT-Advanced/ReX-patches/compare/v2.188.2...v2.189.0) (2023-08-25)
+
 
 ### Bug Fixes
 
-* **music/hide-upgrade-button:** Not worked correctly https://github.com/YT-Advanced/YT-Advanced/issues/42
+* **youtube/hide-quick-action:** Not worked correctly https://github.com/YT-Advanced/YT-Advanced/issues/68
 
+* **youtube/hide-emoji-picker:** Not worked correctly
 
-### Features
+* **youtube-music/hide-upgrade-button:** Not worked without Sample button
 
-* **youtube:** Alternative video thumbnails [(screenshot)](https://t.me/ReXgroups/6)
+### Feature
 
-* **youtube/hide-product-banner:** Hide new product type (in Store tab) https://github.com/YT-Advanced/YT-Advanced/issues/29
+* **youtube:** Added support for `v18.33.xx`
 
-* **youtube/hide-action-button:** Add hide for action button (like Transcript, Chapter, etc) https://github.com/YT-Advanced/RVX_BUG_CENTER/issues/1
-
-
-
+* **youtube-music:** Added support for `v6.16.52`
 ---  
