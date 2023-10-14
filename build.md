@@ -9,7 +9,7 @@ Music (arm64-v8a): 6.22.51
 Music (arm-v7a): 6.22.51  
 Twitter: 10.11.0-release.0  
 Twitch: 16.6.2  
-TikTok: 31.7.3  
+TikTok: 31.7.4  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
@@ -17,9 +17,9 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for
 
 Changelog:  
 CLI: inotia00/revanced-cli-4.0.3-all.jar  
-Integrations: inotia00/revanced-integrations-0.119.8.apk  
-Patches: inotia00/revanced-patches-2.193.8.jar  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.193.8)
+Integrations: inotia00/revanced-integrations-0.119.12.apk  
+Patches: inotia00/revanced-patches-2.193.12.jar  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.193.12)
 
 CLI: j-hc/revanced-cli-4.0.1-all.jar  
 Integrations: ReVanced/revanced-integrations-0.119.2.apk  
