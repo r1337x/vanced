@@ -4,10 +4,10 @@ on:
     secrets:
       TELEGRAM_TOKEN:
         description: "Telegram Bot Token"
-        required: true
+        required: false
       TELEGRAM_TO:
         description: "Telegram Chat ID"
-        required: true
+        required: false
     inputs:
       from_ci:
         type: boolean
