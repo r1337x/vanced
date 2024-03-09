@@ -17,7 +17,7 @@ on:
       release_tag:
         type: string
         description: 'The tag of the release'
-        required: true
+        required: false
       
 
 jobs:
