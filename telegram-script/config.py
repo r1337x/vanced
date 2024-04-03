@@ -3,7 +3,7 @@ class Config:
         "https://api.github.com/repos/r1337x/vanced/releases/latest"
     )
     MICROG_RELEASE_URL = (
-        "https://api.github.com/repos/inotia00/VancedMicroG/releases/latest"
+        "https://api.github.com/repos/ReVanced/GmsCore/releases/latest"
     )
     REVANCED_CHANGES_URL = (
         "https://api.github.com/repos/revanced/revanced-patches/compare"
